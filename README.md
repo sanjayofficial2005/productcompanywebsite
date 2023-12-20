@@ -838,11 +838,6 @@ REF NUMBER   :23013084
 ![Screenshot from 2023-12-20 20-12-04](https://github.com/sanjayofficial2005/productcompanywebsite/assets/148048602/6dfe2f9f-0538-41e4-891d-6ab896fb8cfe)
 
 
-
-### Home Page:
-
-![output](./images/homepage.jpg)
-
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
